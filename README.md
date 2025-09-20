@@ -6,7 +6,7 @@ Customer Support RAG Agent built with n8n, OpenAI, Pinecone, Google Drive, and C
 This project shows how to build a Retrieval-Augmented Generation (RAG) assistant for customer support using **n8n**, **OpenAI GPT-5**, **Pinecone**, **Google Drive**, and **ChatTrigger**.
 
 ## Workflows
-- **IPineCone RAG Agent (`PineCone RAG Agent`)**  
+- **PineCone RAG Agent (`PineCone RAG Agent`)**  
   Watches a Google Drive folder, chunks documents, creates OpenAI embeddings, and upserts them into Pinecone .
 
 - **RAG-Query-Agent(`RAG-Query-Agent`)**  
